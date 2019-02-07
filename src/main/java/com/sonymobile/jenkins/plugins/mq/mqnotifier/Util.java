@@ -79,6 +79,8 @@ public final class Util {
     public static final String VALUE_DELETED = "DELETED";
     /**Content Type. */
     public static final String CONTENT_TYPE = "application/json";
+    /**Artifacts key**/
+    public static final String KEY_ARTIFACTS = "artifacts";
 
     /**
      * Utility classes should not have a public or default constructor.
